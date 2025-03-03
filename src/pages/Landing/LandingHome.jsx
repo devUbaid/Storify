@@ -513,6 +513,7 @@ const LandingHome = () => {
               custom domains, and advanced admin features.
             </p>
           </div>
+
         </div>
 
         {/* Pricing Cards */}

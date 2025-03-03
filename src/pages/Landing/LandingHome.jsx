@@ -513,17 +513,6 @@ const LandingHome = () => {
               custom domains, and advanced admin features.
             </p>
           </div>
-          {/* <span className="bg-gray-200 overflow-hidden rounded-full flex flex-row w-[148px]">
-            <button
-              onClick={handleSecureClick}
-              className="transition-all duration-200 bg-gray-300 hover:bg-gray-300 py-2 px-3"
-            >
-              Monthly
-            </button>
-            <button className="transition-all duration-200 hover:bg-gray-300 py-2 px-3">
-              Yearly
-            </button>
-          </span> */}
         </div>
 
         {/* Pricing Cards */}
@@ -599,7 +588,7 @@ const LandingHome = () => {
     {/* Logo & Copyright */}
     <div className="flex flex-col items-center md:items-center">
       <img src={logoBlack} alt="Logo" className="mb-4 w-[15rem] filter brightness-75" />
-      <p className="text-sm">The **STORIFY** app is a file storage and management system.</p>
+      <p className="text-sm">The <b>"Storify"</b> app is a file storage and management system.</p>
       <p className="text-sm mt-2">© 2025. All rights reserved.</p>
     </div>
 
@@ -645,15 +634,6 @@ const LandingHome = () => {
       </div>
     </div>
   </div>
-
-  {/* Additional Section for Newsletter Signup */}
-  {/* <div className="mt-8 text-center">
-    <h3 className="text-lg font-semibold text-white mb-3">SUBSCRIBE TO OUR NEWSLETTER</h3>
-    <form className="flex justify-center">
-      <input type="email" placeholder="Enter your email" className="p-2 rounded-l-md border border-gray-600 bg-gray-800 text-gray-300" required />
-      <button type="submit" className="bg-blue-600 text-white p-2 rounded-r-md hover:bg-blue-500 transition-colors">Subscribe</button>
-    </form>
-  </div> */}
 </footer>
     </div>
   );

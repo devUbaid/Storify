@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "/Logo/Landing/Storify4.png";
+import logo from "/Logo/Landing/Storify2.png";
 import { Link } from "react-router-dom";
 
 function Navbar() {

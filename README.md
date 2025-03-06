@@ -2,7 +2,7 @@
 
 ## Description
 
-The STorify app is a file storage and management system that allows users to upload, manage, share, and organize their files efficiently. It is designed to be user-friendly with features that ensure the safety and accessibility of user data. The app offers secure login with OTP and provides free storage to users.
+The Storify app is a file storage and management system that allows users to upload, manage, share, and organize their files efficiently. It is designed to be user-friendly with features that ensure the safety and accessibility of user data. The app offers secure login with OTP and provides free storage to users.
 
 ## Slogan:
 

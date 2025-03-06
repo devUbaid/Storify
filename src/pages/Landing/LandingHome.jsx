@@ -382,7 +382,7 @@ const LandingHome = () => {
                 </div>
                 <div className="flex w-full justify-between rounded-md border border-b-2 border-b-double border-[#afafaf] p-1">
                   <div className="w-[80%] flex flex-col pl-1 ">
-                    <div>Rohit wants to share 📄 file</div>
+                    <div> A user wants to share 📄 file</div>
                     <div className="text-[#afafaf]">10:00AM</div>
                   </div>
                   <div className=" w-[10%] flex flex-col justify-center items-center ">
@@ -397,7 +397,7 @@ const LandingHome = () => {
                 </div>
                 <div className="flex w-full justify-between rounded-md border border-b-2 border-b-double border-[#afafaf] p-1">
                   <div className="w-[80%] flex flex-col pl-1">
-                    <div>Kavita requesting to read 📄 file</div>
+                    <div>A person requesting to read 📄 file</div>
                     <div className="text-[#afafaf]">10:30AM</div>
                   </div>
                   <div className=" w-[10%] flex flex-col justify-center items-center ">
